@@ -27,7 +27,7 @@
 
 
 
-## My accomplishments:
+## My accomplishments ⭐
  
  <div>
   <a href="https://github.com/leonardodondoni">
