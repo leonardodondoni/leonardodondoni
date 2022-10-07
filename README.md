@@ -2,7 +2,7 @@
 
 
  - 👨‍🎓 Studying Software Engineer at PUC-RS.
- - 👨‍💻 Intern Tester at GEO Digital in Porto Alegre, Brazil.
+ - 👨‍💻 QA Analyst at GEO Digital in Porto Alegre, Brazil.
  - 😊 Pronouns: He/Him.
  - 🌱 Learning Java.
  
