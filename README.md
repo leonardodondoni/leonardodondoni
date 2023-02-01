@@ -2,9 +2,9 @@
 
 
  - 👨‍🎓 Studying Software Engineer at PUC-RS.
- - 👨‍💻 QA Analyst at GEO Digital in Porto Alegre, Brazil.
+ - 💼 QA Analyst at GEO Digital in Porto Alegre, Brazil.
  - 😊 Pronouns: He/Him.
- - 🌱 Learning Java.
+ - 🌱 Learning PHP
  
  
  ## Talk to me 😁
@@ -15,10 +15,10 @@
 </div>
 
 
-##  Learning Objectives 📚
+##  Languages 👨‍💻
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
   <img align="center" alt="Leo-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
 </div>
