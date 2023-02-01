@@ -19,8 +19,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
-  <img align="center" alt="Leo-Swift" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg">
+  <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
 
 
@@ -30,6 +29,5 @@
  <div>
   <a href="https://github.com/leonardodondoni">
   <img width="42%" src="https://github-readme-stats.vercel.app/api?username=leonardodondoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardodondoni&layout=compact&langs_count=16&theme=dark">
  </div>
   
