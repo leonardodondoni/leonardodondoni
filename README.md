@@ -4,7 +4,7 @@
  - 👨‍🎓 Studying Software Engineer at PUC-RS.
  - 💼 QA Analyst at GEO Digital in Porto Alegre, Brazil.
  - 😊 Pronouns: He/Him.
- - 🌱 Learning PHP
+ - 🌱 Learning Java at University and mastering PHP at work.
  
  
  ## Talk to me 😁
