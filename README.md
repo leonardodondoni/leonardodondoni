@@ -1,31 +1,40 @@
-## Hello! I'm Leonardo Dondoni 🤗
+# Leonardo Dondoni
 
+**AI Engineer @ Grupo Ável** · LLM agents, RAG & LLMOps · Porto Alegre, Brazil 🇧🇷
 
- - 👨‍🎓 Studying Software Engineer at PUC-RS.
- - 💼 Full-stack Developer at GEO Digital in Porto Alegre, Brazil.
- - 🌱 Learning Java at University and mastering PHP at work.
- 
- 
- ## Talk to me 😁
-  <div>
-  <a href = "mailto:leonardods2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardodondoni" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
-</div>
+I build LLM systems that hundreds of people use every day, and the parts that keep them running in production: queues, fallbacks, alerts and cost.
 
+## What I do
 
-##  Languages 👨‍💻
+- **Atlas**: led Ável's AI assistant, rolled out to 500+ employees. Multi-agent LangGraph engine with RAG and routing across AWS Bedrock, OpenAI, Anthropic and Gemini.
+- **Speech-to-text**: moved to a self-hosted Whisper pipeline on AWS GPUs, cutting transcription cost by ~80% (~14k audio hours/month).
+- **Call and meeting audits**: LLM scoring of ~7k sales meetings and ~20k SDR calls a month, written straight into the CRM.
+- **Evals on real traffic**: ~60% fewer tokens with no quality loss.
+- **Observability and cost control**: Langfuse, OpenTelemetry, Grafana, per-user cost ledger with budgets.
+- **RAG**: hybrid search on PostgreSQL/pgvector with self-hosted BGE-M3 embeddings.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-</div>
+Before AI: 3+ years as a full-stack developer (PHP, Python, JavaScript), including CNAB 240 bank integrations and a home-insurance portal, the first of its kind in Brazil.
 
+## Stack
 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL%20%2B%20pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 
-## My accomplishments ⭐
- 
- <div>
-  <a href="https://github.com/leonardodondoni">
-  <img width="42%" src="https://github-readme-stats.vercel.app/api?username=leonardodondoni&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
- </div>
-  
+Also: LangChain, Langfuse, OpenTelemetry, SQS, ECS, Bedrock.
+
+## Education
+
+Software Engineering at PUCRS.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/leonardodondoni) · [leonardosiqueira387@gmail.com](mailto:leonardosiqueira387@gmail.com)
+
+Always up for a conversation about LLM agents and RAG in production.
